@@ -1,0 +1,13 @@
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe.config
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\bin\Debug\OperatorTree.pdb
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.FrmMain.resources
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.Properties.Resources.resources
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.exe
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.pdb
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.diagNewOperator.resources
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.diagNewOperand.resources
+C:\Users\georg\OneDrive - HTBLuVA Wiener Neustadt\4BHIF\POS\Projects\OperatorTree\OperatorTree\obj\Debug\OperatorTree.frmAnimation.resources
