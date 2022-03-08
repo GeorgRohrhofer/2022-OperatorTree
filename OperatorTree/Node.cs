@@ -18,7 +18,7 @@ namespace OperatorTree
         public int SIZE = 15;
         public Node Parent { get; set; }
 
-        public static readonly Font f = new Font("Arial", 12);
+        public static readonly Font f = new Font("Source Code Pro", 12);
 
         public Node (int x, int y)
         {

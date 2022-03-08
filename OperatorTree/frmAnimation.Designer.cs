@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbtn_prefix = new System.Windows.Forms.RadioButton();
-            this.rbtn_Infix = new System.Windows.Forms.RadioButton();
             this.rbtn_postfix = new System.Windows.Forms.RadioButton();
+            this.rbtn_Infix = new System.Windows.Forms.RadioButton();
+            this.rbtn_prefix = new System.Windows.Forms.RadioButton();
             this.btn_start = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -48,16 +48,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Animation auswählen";
             // 
-            // rbtn_prefix
+            // rbtn_postfix
             // 
-            this.rbtn_prefix.AutoSize = true;
-            this.rbtn_prefix.Location = new System.Drawing.Point(6, 19);
-            this.rbtn_prefix.Name = "rbtn_prefix";
-            this.rbtn_prefix.Size = new System.Drawing.Size(51, 17);
-            this.rbtn_prefix.TabIndex = 0;
-            this.rbtn_prefix.TabStop = true;
-            this.rbtn_prefix.Text = "Prefix";
-            this.rbtn_prefix.UseVisualStyleBackColor = true;
+            this.rbtn_postfix.AutoSize = true;
+            this.rbtn_postfix.Location = new System.Drawing.Point(6, 65);
+            this.rbtn_postfix.Name = "rbtn_postfix";
+            this.rbtn_postfix.Size = new System.Drawing.Size(56, 17);
+            this.rbtn_postfix.TabIndex = 2;
+            this.rbtn_postfix.TabStop = true;
+            this.rbtn_postfix.Text = "Postfix";
+            this.rbtn_postfix.UseVisualStyleBackColor = true;
             // 
             // rbtn_Infix
             // 
@@ -70,16 +70,16 @@
             this.rbtn_Infix.Text = "Infix";
             this.rbtn_Infix.UseVisualStyleBackColor = true;
             // 
-            // rbtn_postfix
+            // rbtn_prefix
             // 
-            this.rbtn_postfix.AutoSize = true;
-            this.rbtn_postfix.Location = new System.Drawing.Point(6, 65);
-            this.rbtn_postfix.Name = "rbtn_postfix";
-            this.rbtn_postfix.Size = new System.Drawing.Size(56, 17);
-            this.rbtn_postfix.TabIndex = 2;
-            this.rbtn_postfix.TabStop = true;
-            this.rbtn_postfix.Text = "Postfix";
-            this.rbtn_postfix.UseVisualStyleBackColor = true;
+            this.rbtn_prefix.AutoSize = true;
+            this.rbtn_prefix.Location = new System.Drawing.Point(6, 19);
+            this.rbtn_prefix.Name = "rbtn_prefix";
+            this.rbtn_prefix.Size = new System.Drawing.Size(51, 17);
+            this.rbtn_prefix.TabIndex = 0;
+            this.rbtn_prefix.TabStop = true;
+            this.rbtn_prefix.Text = "Prefix";
+            this.rbtn_prefix.UseVisualStyleBackColor = true;
             // 
             // btn_start
             // 
