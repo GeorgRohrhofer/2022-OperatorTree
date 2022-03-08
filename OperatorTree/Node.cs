@@ -15,7 +15,7 @@ namespace OperatorTree
         public int Y { set; get; }
         public Color Col { get; set; }
 
-        public const int SIZE = 10;
+        public int SIZE = 15;
         public Node Parent { get; set; }
 
         public static readonly Font f = new Font("Arial", 12);

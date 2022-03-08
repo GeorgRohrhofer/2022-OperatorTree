@@ -20,11 +20,16 @@ namespace OperatorTree
 
         public override void Paint(Graphics g)
         {
+            SizeF dim = g.MeasureString(Value + "", f);
+
+            this.SIZE = (int)Math.Round(dim.Width / 2);
+
+            if (SIZE < 15)
+                SIZE = 15;
+
             g.FillEllipse(Brushes.White, this.X - SIZE, this.Y - SIZE, SIZE * 2, SIZE * 2);
             g.DrawEllipse(new Pen(Col, 1), this.X - SIZE, this.Y - SIZE, SIZE * 2, SIZE * 2);
-            
 
-            SizeF dim = g.MeasureString(Value+"", f);
             g.DrawString(Value+"", f, Brushes.Black, X - dim.Width/2, Y - dim.Height/2);
         }
 
